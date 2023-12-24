@@ -1,6 +1,6 @@
 # Projets-skillfactory
 
-**Résolution de problèmes commerciaux à l'aide de SQL.** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+**Résolution de problèmes commerciaux à l'aide de SQL et PowerBI.** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 <br>
 https://docs.google.com/document/d/1VCM67bXyXFnn0fl-AtC_N79Aia9eNQs-0oNvGf82Yx0/edit <br><br>
