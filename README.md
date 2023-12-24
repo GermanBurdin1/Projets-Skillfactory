@@ -12,9 +12,9 @@ https://docs.google.com/document/d/1KakGRSNAAfORhJhAMwlZod0fTs5kaTmFFh05nb6E1fc/
 ---
 <br>
 
-**Analyse marketing et produit d'une entreprise spécialisée dans la vente de produits écologiques pour la maison. (projet original)** ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+**Analyse marketing et produit d'une entreprise spécialisée dans la vente de produits écologiques pour la maison.** ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 <br>
 https://docs.google.com/spreadsheets/d/1IWDjhj6_tW4e7D_Y8YH9fa2jNkxoz3bVW_PT-iTaVho/edit#gid=502588873
 
-**Traduction du projet** <br>
+**Traduction du projet.** <br>
 https://docs.google.com/spreadsheets/d/1oTSms4nxb7bzEBNoBwwc5PsH93WL2Ry-FKMoISsI2F8/edit#gid=502588873
